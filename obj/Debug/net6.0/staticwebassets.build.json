@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F2g5QMLVOftfKPCgWkrl3VsR3hFFuwfc1Jwq3OvhLhE=",
+  "Hash": "TE+Ottbwf1aETF1XFmtTIwJuzUIubtjm1ZcTPq6Y37g=",
   "Source": "EmprestimoLivros",
   "BasePath": "_content/EmprestimoLivros",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\carlo\\Cursos\\C#\\EmprestimoLivros\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmprestimoLivros.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\carlo\\Cursos\\C#\\EmprestimoLivros\\wwwroot\\css\\Materia.css",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\carlo\\Cursos\\C#\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "css/Materia.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Materia.css"
     },
     {
       "Identity": "D:\\carlo\\Cursos\\C#\\EmprestimoLivros\\wwwroot\\css\\site.css",

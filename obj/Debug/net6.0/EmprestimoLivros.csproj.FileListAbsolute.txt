@@ -66,3 +66,4 @@ D:\carlo\Cursos\C#\EmprestimoLivros\obj\Debug\net6.0\refint\EmprestimoLivros.dll
 D:\carlo\Cursos\C#\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.pdb
 D:\carlo\Cursos\C#\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.genruntimeconfig.cache
 D:\carlo\Cursos\C#\EmprestimoLivros\obj\Debug\net6.0\ref\EmprestimoLivros.dll
+D:\carlo\Cursos\C#\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.sourcelink.json
